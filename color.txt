@@ -1,0 +1,16 @@
+;Chat name colors to be read randomly by remote.ini
+{ msg $chan /color Blue }
+{ msg $chan /color BlueViolet } 
+{ msg $chan /color CadetBlue }
+{ msg $chan /color Chocolate }
+{ msg $chan /color Coral }
+{ msg $chan /color DodgerBlue } 
+{ msg $chan /color Firebrick }
+{ msg $chan /color GoldenRod }
+{ msg $chan /color Green }
+{ msg $chan /color HotPink }
+{ msg $chan /color OrangeRed } 
+{ msg $chan /color Red }
+{ msg $chan /color SeaGreen }
+{ msg $chan /color SpringGreen } 
+{ msg $chan /color YellowGreen }
