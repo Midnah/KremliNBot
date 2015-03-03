@@ -1,7 +1,8 @@
 ;Roulette to be read randomly by remote.ini
-{ msg $chan *BANG!* You pulled the trigger and died. }
 { msg $chan *Click!* You pulled the trigger and lived.} 
 { msg $chan *Click!* You pulled the trigger and lived.} 
 { msg $chan *Click!* You pulled the trigger and lived.} 
 { msg $chan *Click!* You pulled the trigger and lived.} 
 { msg $chan *Click!* You pulled the trigger and lived.} 
+{ msg $chan *BANG!* You pulled the trigger and died.
+    msg $chan /timeout $nick 5 }
